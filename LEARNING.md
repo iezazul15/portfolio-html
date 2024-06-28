@@ -14,7 +14,15 @@
    - Head, Body (Must have in a html file)
 6. Basic Tags, Styling, Debugging
    - Tag? Types of tags
-   - Attributes?
-   - Element?
-   - Content?
-   - Debugging?
+   - Attributes
+   - Content, Element(Content + Tag)
+   - Debugging
+7. Semantic & Non-semantic HTML tags
+   - semantic tag: header, footer, main, form, table
+   - non-semantic tag: div, span
+8. Text formatting tags
+9. List
+10. Link
+11. Table
+12. Form
+13. Deploy
