@@ -30,6 +30,11 @@
   - Relative is within the website, like contact page
 - a tag, title, attributes, target
 
-11. Table
-12. Form
-13. Deploy
+11. Image
+12. Table
+13. Form
+14. Entity
+
+- For example: copyright sign
+
+14. Deploy
