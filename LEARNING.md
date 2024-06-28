@@ -22,7 +22,14 @@
    - non-semantic tag: div, span
 8. Text formatting tags
 9. List
+   - Ordered, Unordered, Definition, Nested
 10. Link
+
+- Absolute vs relative
+  - Absolute is like a link of google
+  - Relative is within the website, like contact page
+- a tag, title, attributes, target
+
 11. Table
 12. Form
 13. Deploy
